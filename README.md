@@ -1,2 +1,2 @@
 # Tech
-My repository
+This is the sample code for simple Python Blockchain.
